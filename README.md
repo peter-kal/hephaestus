@@ -1,16 +1,7 @@
 # hephaestus
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Goals: Make a code editor, that's more complex than basic editors(like the Gnome one), but simpler than VScode.
+For state management, BLoC will be used. For db don't know yet.
+- [ ] seeing a tree of the files of the directory at hand
+- [ ] git support
+- [ ] have terminal support(maybe use YaruPanedView)
