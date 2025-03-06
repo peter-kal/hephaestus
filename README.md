@@ -1,13 +1,10 @@
 # hephaestus
 
-Goals: Make a code editor, that's more complex than basic editors(like the Gnome one), but simpler than VScode.
-For state management, BLoC will be used. For db don't know yet.
-concept:
 ![](screenshots/Screenshot%202024-12-05%20211908.png)
 
-- [ ] seeing a tree of the files of the directory at hand
-- [ ] git support
-- [ ] have terminal support(maybe use YaruPanedView)
+## State Management
+
+Flutter BLoC will be used, the goal is to have the UI seperated from logic as much as possible.
 
 # The Concept of Hephaestus
 
@@ -36,6 +33,4 @@ ii) after making the goals clear, there comes the time to lay out the strategy f
 
 Everything is politics, even if you realise it or not, making something open-source is a political stance of it's own. But if Hephaestus passes the test of time, and it becomes popular, I would like to make clear that:
 
-1. I condemn the Palestinian genocide, conducted by the terrorist state of Israel, backed by the USA-EU and the whole euro-atlantic capilist bloc. As a small try to express that(and I say small because the most powerful way is getting in the streets, is mobilizing against monopoly capitalism, and getting organised in Communist Party) I will try and block the access of the app as much as I can on Israel(Occupied Palestine) .
-2. I am a Marxist-Leninist/ Communist, I condemn the capitalist system, I look forward to it's revolutionary overthrow, conducted by the working class and its social allies, farmers etc., and the construction of a world with no exploitation by man to man, socialism - communism. I also refuse to take part in the whitewashing of the american and in general Capitalist history, as well as the anti-soviet propaganda.
-   So if in the future you see a post of mine that features this elements, don't be surprised.
+1. I condemn the Palestinian genocide, conducted by the terrorist state of Israel, backed by the USA-EU and the whole euro-atlantic capilist bloc. As a small try to express that(and I say small because the most powerful way is getting in the streets, is mobilizing against monopoly capitalism, and getting organised) I will try and block the access of the app as much as I can on Israel(Occupied Palestine).
